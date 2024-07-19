@@ -1,0 +1,30 @@
+body{
+    background-color: #1c1c1c;
+    color: #dfdfdf;
+    padding: 0%;
+    margin: 0%;
+}
+
+.homepage{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-rows: 1fr 4rem;
+    
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    
+}
+.text-area{
+    display: grid;
+    grid-template-columns: 1fr 5rem;
+}
+
+    button{
+        height: 100%;
+        width: 100%;
+        
+    }
